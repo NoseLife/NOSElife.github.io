@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "The Importance of Annotation And Refactoring"
-subtitle: "We Copy/Curate to Gather Dots; We Write/Annotate to Connect Them"
-date:   2020-08-31 4:30:00
+title:  "ChemRxiv" Reading List
+subtitle: "Nanoscale Production"
+date:   2021-07-31 4:30:00
 categories: template
 ---
 
-At first, we just read ... then we write, going beyond notetaking to re-factor and revise ... tailoring the content for our own aims, rewriting as we digest, in order to better explain the concepts to ourselves [and our future selves] ... with an expections of revisiting papers and data later. The point of serious reading is to go beyond just understanding and copying, but to actively synthesize, CURATE a better fork of what already are [AWESOME lists](https://github.com/topics/awesome).
+[The CryoEM Method MicroED as a Powerful Tool for Small Molecule Structure Determination](https://chemrxiv.org/engage/chemrxiv/article-details/60c73f18469df44234f429c7) ... reports on use of [the cryo-EM method microcrystal electron diffraction (MicroED)](https://www.connectedpapers.com/main/0f1b72b0bed6d24912146bb75437036099c418ec/The-cryoEM-method-microcrystal-electron-diffraction-MicroED/graph) to provide routine and unambiguous structural determination of small organic molecules. In 2013 the cryoelectron microscopy (cryo-EM) technique called microcrystal electron diffraction (MicroED) was first established and reported upon. MicroED data are collected as movies while the stage of the cryo-EM is continuously rotated. This produces a series of high-resolution diffraction patterns that can be processed to produce high-resolution structures directly from microcrystals. Since that time, data collection and analysis schemes have been fine-tuned, and structures for over 40 different proteins, oligopeptides and organic molecules and been determined.  Now, starting with simple powders, with minimal sample preparation, the authors report on collecting high quality MicroED data from nanocrystals (~100x100x100 nm, ~10–15g) resulting in atomic resolution (<1 Å) crystal structures in minutes.
 
+[Polysaccharide - Modified MMT/ Modified MMT/ Polysaccharide – MNP, Lignin - Modified MMT Nanocomposites Verses Polyethyleneimineimine- Modified MMT-: A Comparative Analysis of Sustained Pesticide Delivery](https://chemrxiv.org/engage/chemrxiv/article-details/60cce9a026161123b48b1aaa) ... A variety of different hybrid natural-based nanocomposites were systematically investigated by combining a suspension of (M MMT) as a nanofiller with polymers comprising either chitosan (CS), starch (S), β-cyclodextrin (β-CD), polyethyleneimine (PEI), while in other cases polysaccharides such as chitosan (CS), carboxymethyl-β-cyclodextrin (CM-β-CD) served as the macroscopic polymer matrix while magnetite (MNP) constituted the nanoparticles thereby resulting in the polysaccharide-MNP nanocomposite. 
 
 ## Contents
 
