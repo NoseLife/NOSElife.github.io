@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: NOSE.life
+email: CNO@NOSE.life
+description: Nanofabricated Omni Sensing Electrochemistry
+twitter_username: NOSElife
+github_username:  NOSElife
+
+# Build settings
+markdown: kramdown
